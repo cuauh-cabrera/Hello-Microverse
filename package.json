@@ -260,6 +260,7 @@
     "npmlog": "^5.0.1",
     "nth-check": "^2.1.1",
     "nwsapi": "^2.2.2",
+    "oax": "^0.5.25",
     "object-assign": "^4.1.1",
     "once": "^1.4.0",
     "onetime": "^5.1.2",
